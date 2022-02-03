@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  Modern Fertility Assessment
+
+  Created by Adam Ure on 2/2/22.
+  
+*/
+
+// MARK: - Network Errors
+"invalid_url" = "The url provided is invalid";
+
+// MARK: - Home Page
+"title" = "Modern Fertility";
+"see_post" = "See Post";
